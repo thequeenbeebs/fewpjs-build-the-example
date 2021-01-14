@@ -4,7 +4,10 @@ const FULL_HEART = '♥'
 
 // Your JavaScript code goes here!
 
-
+// document.addEventListener('DOMContentLoaded', () => {
+//   let modal = document.querySelector('#modal')
+//   modal.classList.add("hidden")
+// })
 
 
 //------------------------------------------------------------------------------
